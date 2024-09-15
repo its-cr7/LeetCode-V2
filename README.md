@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/its-cr7/LeetCode-V2/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-cr7/LeetCode-V2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Linked List
@@ -28,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-cr7/LeetCode-V2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Hash Table
+|  |
+| ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+## String
+|  |
+| ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Prefix Sum
+|  |
+| ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
