@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/its-cr7/LeetCode-V2/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/its-cr7/LeetCode-V2/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/its-cr7/LeetCode-V2/tree/master/0190-reverse-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/its-cr7/LeetCode-V2/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-cr7/LeetCode-V2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/its-cr7/LeetCode-V2/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/its-cr7/LeetCode-V2/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
