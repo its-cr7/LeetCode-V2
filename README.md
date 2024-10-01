@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/its-cr7/LeetCode-V2/tree/master/0136-single-number) |
 | [0729-my-calendar-i](https://github.com/its-cr7/LeetCode-V2/tree/master/0729-my-calendar-i) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-cr7/LeetCode-V2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/its-cr7/LeetCode-V2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-cr7/LeetCode-V2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
