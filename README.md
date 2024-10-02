@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/its-cr7/LeetCode-V2/tree/master/0283-move-zeroes) |
 | [0729-my-calendar-i](https://github.com/its-cr7/LeetCode-V2/tree/master/0729-my-calendar-i) |
+| [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-cr7/LeetCode-V2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/its-cr7/LeetCode-V2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-cr7/LeetCode-V2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/its-cr7/LeetCode-V2/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-cr7/LeetCode-V2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0088-merge-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
 ## Simulation
 |  |
 | ------- |
