@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/its-cr7/LeetCode-V2/tree/master/0729-my-calendar-i) |
 | [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-cr7/LeetCode-V2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/its-cr7/LeetCode-V2/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/its-cr7/LeetCode-V2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-cr7/LeetCode-V2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-cr7/LeetCode-V2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/its-cr7/LeetCode-V2/tree/master/1694-make-sum-divisible-by-p) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/its-cr7/LeetCode-V2/tree/master/1694-make-sum-divisible-by-p) |
 ## Counting
 |  |
 | ------- |
