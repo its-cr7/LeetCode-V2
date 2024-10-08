@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/its-cr7/LeetCode-V2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-cr7/LeetCode-V2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/its-cr7/LeetCode-V2/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/its-cr7/LeetCode-V2/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0567-permutation-in-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-cr7/LeetCode-V2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-cr7/LeetCode-V2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -156,5 +158,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-cr7/LeetCode-V2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/its-cr7/LeetCode-V2/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-cr7/LeetCode-V2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
