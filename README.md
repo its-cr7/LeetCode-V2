@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/its-cr7/LeetCode-V2/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/its-cr7/LeetCode-V2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/its-cr7/LeetCode-V2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-cr7/LeetCode-V2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-cr7/LeetCode-V2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Brainteaser
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/its-cr7/LeetCode-V2/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -89,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/its-cr7/LeetCode-V2/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0567-permutation-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-cr7/LeetCode-V2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-cr7/LeetCode-V2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0088-merge-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-cr7/LeetCode-V2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/its-cr7/LeetCode-V2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-cr7/LeetCode-V2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -179,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/its-cr7/LeetCode-V2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
