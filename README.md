@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/its-cr7/LeetCode-V2/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/its-cr7/LeetCode-V2/tree/master/0283-move-zeroes) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-cr7/LeetCode-V2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/its-cr7/LeetCode-V2/tree/master/0729-my-calendar-i) |
 | [1002-maximum-width-ramp](https://github.com/its-cr7/LeetCode-V2/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-cr7/LeetCode-V2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/its-cr7/LeetCode-V2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0088-merge-sorted-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-cr7/LeetCode-V2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-cr7/LeetCode-V2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-cr7/LeetCode-V2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-cr7/LeetCode-V2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/its-cr7/LeetCode-V2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-cr7/LeetCode-V2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -183,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-cr7/LeetCode-V2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/its-cr7/LeetCode-V2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
