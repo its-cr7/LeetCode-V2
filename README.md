@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/its-cr7/LeetCode-V2/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/its-cr7/LeetCode-V2/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/its-cr7/LeetCode-V2/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/its-cr7/LeetCode-V2/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/its-cr7/LeetCode-V2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/its-cr7/LeetCode-V2/tree/master/1923-sentence-similarity-iii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-cr7/LeetCode-V2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/its-cr7/LeetCode-V2/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/its-cr7/LeetCode-V2/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
