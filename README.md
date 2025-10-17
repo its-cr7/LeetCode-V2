@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/its-cr7/LeetCode-V2/tree/master/0283-move-zeroes) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-cr7/LeetCode-V2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/its-cr7/LeetCode-V2/tree/master/0729-my-calendar-i) |
+| [0792-binary-search](https://github.com/its-cr7/LeetCode-V2/tree/master/0792-binary-search) |
 | [1002-maximum-width-ramp](https://github.com/its-cr7/LeetCode-V2/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/its-cr7/LeetCode-V2/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/its-cr7/LeetCode-V2/tree/master/0729-my-calendar-i) |
+| [0792-binary-search](https://github.com/its-cr7/LeetCode-V2/tree/master/0792-binary-search) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/2586-longest-square-streak-in-an-array) |
 ## Design
