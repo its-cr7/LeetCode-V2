@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/its-cr7/LeetCode-V2/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/its-cr7/LeetCode-V2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/its-cr7/LeetCode-V2/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0088-merge-sorted-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/its-cr7/LeetCode-V2/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/its-cr7/LeetCode-V2/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/its-cr7/LeetCode-V2/tree/master/0792-binary-search) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
