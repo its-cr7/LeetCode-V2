@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/its-cr7/LeetCode-V2/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/its-cr7/LeetCode-V2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/its-cr7/LeetCode-V2/tree/master/0055-jump-game) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/its-cr7/LeetCode-V2/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/its-cr7/LeetCode-V2/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/its-cr7/LeetCode-V2/tree/master/0792-binary-search) |
