@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/its-cr7/LeetCode-V2/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/its-cr7/LeetCode-V2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/its-cr7/LeetCode-V2/tree/master/0055-jump-game) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/its-cr7/LeetCode-V2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/its-cr7/LeetCode-V2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-cr7/LeetCode-V2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/its-cr7/LeetCode-V2/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/its-cr7/LeetCode-V2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/its-cr7/LeetCode-V2/tree/master/0162-find-peak-element) |
 | [0729-my-calendar-i](https://github.com/its-cr7/LeetCode-V2/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/its-cr7/LeetCode-V2/tree/master/0792-binary-search) |
