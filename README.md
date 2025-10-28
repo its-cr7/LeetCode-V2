@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/its-cr7/LeetCode-V2/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/its-cr7/LeetCode-V2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/its-cr7/LeetCode-V2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/its-cr7/LeetCode-V2/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0567-permutation-in-string) |
