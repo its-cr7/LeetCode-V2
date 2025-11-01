@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/its-cr7/LeetCode-V2/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-cr7/LeetCode-V2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/its-cr7/LeetCode-V2/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/its-cr7/LeetCode-V2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-cr7/LeetCode-V2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-cr7/LeetCode-V2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/its-cr7/LeetCode-V2/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-cr7/LeetCode-V2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
