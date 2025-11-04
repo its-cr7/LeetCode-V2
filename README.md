@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/its-cr7/LeetCode-V2/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/its-cr7/LeetCode-V2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-cr7/LeetCode-V2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/its-cr7/LeetCode-V2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/its-cr7/LeetCode-V2/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-cr7/LeetCode-V2/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/its-cr7/LeetCode-V2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-cr7/LeetCode-V2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/its-cr7/LeetCode-V2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/its-cr7/LeetCode-V2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-cr7/LeetCode-V2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/its-cr7/LeetCode-V2/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/its-cr7/LeetCode-V2/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Backtracking
 |  |
 | ------- |
