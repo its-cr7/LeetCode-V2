@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/its-cr7/LeetCode-V2/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/its-cr7/LeetCode-V2/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/its-cr7/LeetCode-V2/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/its-cr7/LeetCode-V2/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/its-cr7/LeetCode-V2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/its-cr7/LeetCode-V2/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/its-cr7/LeetCode-V2/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/its-cr7/LeetCode-V2/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/its-cr7/LeetCode-V2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/its-cr7/LeetCode-V2/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0567-permutation-in-string) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/its-cr7/LeetCode-V2/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/its-cr7/LeetCode-V2/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/its-cr7/LeetCode-V2/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/its-cr7/LeetCode-V2/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/its-cr7/LeetCode-V2/tree/master/0242-valid-anagram) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/its-cr7/LeetCode-V2/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/its-cr7/LeetCode-V2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/its-cr7/LeetCode-V2/tree/master/0242-valid-anagram) |
