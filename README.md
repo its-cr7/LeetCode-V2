@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-cr7/LeetCode-V2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/its-cr7/LeetCode-V2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/its-cr7/LeetCode-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/its-cr7/LeetCode-V2/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/its-cr7/LeetCode-V2/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/2586-longest-square-streak-in-an-array) |
