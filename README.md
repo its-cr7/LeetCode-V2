@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/its-cr7/LeetCode-V2/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/its-cr7/LeetCode-V2/tree/master/0670-maximum-swap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/its-cr7/LeetCode-V2/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/its-cr7/LeetCode-V2/tree/master/1390-four-divisors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/its-cr7/LeetCode-V2/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/its-cr7/LeetCode-V2/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/its-cr7/LeetCode-V2/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/its-cr7/LeetCode-V2/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1390-four-divisors](https://github.com/its-cr7/LeetCode-V2/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/its-cr7/LeetCode-V2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-cr7/LeetCode-V2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/its-cr7/LeetCode-V2/tree/master/1694-make-sum-divisible-by-p) |
